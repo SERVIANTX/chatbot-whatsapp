@@ -1,0 +1,33 @@
+{
+    "name": "Chatbot",
+    "description": "Chat bot hecho para Whatsapp",
+    "keywords": [
+      "nodejs",
+      "whatsapp",
+      "bot",
+      "chatbot",
+      "dialogflow"
+    ],
+    "addons": [
+    ],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/jontewks/puppeteer-heroku-buildpack"
+      }
+    ],
+    "env": {
+      "SAVE_MEDIA": "false",
+      "DATABASE": {
+        "description": "'none', 'mysql', 'dialogflow' por defecto 'none' Puedes usar alguna de los siguientes opciones",
+        "value": "none"
+      },
+      "LANGUAGE": "es",
+      "SQL_HOST":"your_host",
+      "SQL_USER":"your_user",
+      "SQL_PASS":"your_password",
+      "SQL_DATABASE":"your_database"
+    }
+  }

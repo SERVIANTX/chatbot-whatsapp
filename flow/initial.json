@@ -1,0 +1,100 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "olo",
+            "ole",
+            "inicio",
+            "q tal",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden productos",
+            "quisiera saber si venden",
+            "necesito saber"
+        ],
+        "key": "STEP_1_1"
+    },
+    {
+        "keywords":  [
+            "productos y promociones",
+            "1"],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "2",
+            "seguimiento de mis compras"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "3",
+            "atención postventa",
+            "atencion postventa"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "4",
+            "¿dónde se encuentra la tienda física?",
+            "dónde se encuentra la tienda física",
+            "donde se encuentra la tienda fisica"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "5",
+            "¿cómo y dónde puedo recoger mi pedido?",
+            "cómo y dónde puedo recoger mi pedido",
+            "como y donde puedo recoger mi pedido"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "6",
+            "¿mis pagos que realizo son seguras?",
+            "mis pagos que realizo son seguras"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "7",
+            "¿qué debo hacer si olvido mi contraseña de mi cuenta?",
+            "qué debo hacer si olvido mi contraseña de mi cuenta",
+            "que debo hacer si olvido mi contraseña de mi cuenta"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            "8",
+            "otras consultas"
+        ],
+        "key": "STEP_8"
+    },
+    {
+        "keywords":  [
+            "adios",
+            "hasta luego",
+            "hasta ahora",
+            "hasta la vista",
+            "gracias",
+            "chau",
+            "chao",
+            "hasta pronto",
+            "hablamos",
+            "nos vemos",
+            "que tenga un buen día"
+        ],
+        "key": "STEP_0"
+    }
+]

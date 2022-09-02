@@ -1,0 +1,195 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Lo siento pero no puedo entenderte."
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Recuerda que estaré aquí *24/7* si necesitas algo. "
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1_1":{
+        "replyMessage":[
+            "¡Hola! Mi nombre es *Angelo* 🤖 y me gustaría darte la *bienvenida* a nombre del  \n",
+            "minimarket *Angela Maria*. Si esta es tu primera vez aquí, me gustaría agradecerle por venir y  \n",
+            "espero que se sienta cómodo. \n\n",
+            "Me puede decir cualquier consulta o duda que tenga.\n\n",
+            "*Puede elegir una opción ingresando el número o pregunta:*\n\n",
+            "*1.* productos y promociones \n",
+            "*2.* seguimiento de mis compras \n",
+            "*3.* atención postventa \n",
+            "*4.* ¿dónde se encuentra la tienda física? \n",
+            "*5.* ¿cómo y dónde puedo recoger mi pedido? \n",
+            "*6.* ¿mis pagos que realizo son seguras? \n",
+            "*7.* ¿qué debo hacer si olvido mi contraseña de mi cuenta? \n",
+            "*8.* otras consultas \n"
+        ],
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "*Tenemos las mejores ofertas en las siguientes secciones:*  \n\n",
+            "👉 *Licores:* http://angelamaria.com/licores \n",
+            "👉 *Limpieza:* http://angelamaria.com/limpieza \n ",
+            "👉 *Conservas y comida preparada:* http://angelamaria.com/conservas-y-comida-preparada"
+        ],
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Ingresa el número de *DNI* del titular de la compra. "
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "*En que te puedo ayudar* \n",
+            "👉 Ingreso de reclamo \n",
+            "👉 Consulta de reclamo \n"
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Nos ubicamos en *Yauyos* - *Jauja* o puede ingresar al siguiente enlace *https://tinyurl.com/angela-maria* para poder ubicarse mejor."
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Usted puede elegir entre el envío a domicilio y el recojo en tienda. \n",
+            "Si escoge recojo en tienda puede visitarnos en *Yauyos* - *Jauja* o puede ingresar al siguiente enlace *https://tinyurl.com/angela-maria*"
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Por supuesto que sí, Estamos asociados con el método de pago de *Mercado Pago* y *Paypal*."
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Comuníquese con soporte técnico al *987 789 231*, para que le ayude a restablecer su contraseña."
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "🤖 *Angelo:* \n\n",
+            "👉 Cualquier consulta no dudes en comunicarte por *correo electrónico* a *helpcenter@angelamaria.com* o *llamar* al *987 789 231*."
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Tienes una pregunta?",
+            "message":"prueba",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"prueba1"},
+                {"body":"prueba2"},
+                {"body":"prueba3"}
+            ]
+        }
+    }
+}

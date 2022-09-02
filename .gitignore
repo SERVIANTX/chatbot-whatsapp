@@ -1,0 +1,11 @@
+/node_modules
+/node_modules/*
+session.json
+chats/*
+!chats/.gitkeep
+media/*
+!media/.gitkeep
+mediaSend/*
+!mediaSend/.gitkeep
+!mediaSend/nota-de-voz.mp3
+.wwebjs_auth

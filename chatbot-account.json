@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-angelamaria-q9us",
+  "private_key_id": "faebf0757c7bbf01e8d8357235d0cbe153cad2be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2x/dqfsPzYRk6\nbIdsSwQoiFdEEtgrvMOW6lJVyb7zqA8/+8LYvlHwgVMXxhAr1tJswLIEunQmfF67\nTbxfV/l0wvG0gN9Ew9cA4iJpDFj5Ir8W3Dn4l9xo0wtX+zIAks0E9phDu+nrYq6i\n42tnj84s4K5jzW2QrYBleQjKXWF0ZK6se+WWmJLq6TVuZlF2XSX1Tk6t2OoAXrwd\nnE7PUe6v3yCid63RyDFAQAYSpOJJeA4DqUBEH7VytZ4GHaiTbmlGb8mDvjewcI+y\nda/ORi2ADXONTFp0KxcyBhvyknNfElzoFwdrTr/GoYu2+uRZdEUfEprmdq5OY9vu\nVu3Jblp/AgMBAAECggEADO+IAYRyVE9MLsfmF2ATv/oJpCqy90IHJi89MeqFHz0Z\nMXtUAUhTdak81lxRGPSY/dNczxLbnmGoWhhPlrdAd+bYDAWNtUjfdqXTinf7Ykwb\nqJIW3VvMTj0paIDBlwde9R5AVnCQj/UXgzWoQ0VUA/XseHwCsX3Trf9Zlg6FgUeW\nF9O7Is+pl0aTf2s9x/56qm0g2NucKj5q5vMMP09gmGqAhKwMzZSxKEXY03J6Gp/M\nJl1HZVPKl6xRAAvx6himBrmUtaYIR4QyYRqo1bq7MuG4qn8SE5HKLQPsxsV4r86/\nw26ohRxEZNbTvnCMEbasVBMeGQ8ZPFTbkQEBaN3OCQKBgQD/zcc5dT+bBsK8jpZe\nHiUJTmFAkCH7s2vUQgdGe+uKsMQutSWV1Fe3Qr73DnMknDg/kJ2LgXjUfRvnM+5O\ngQvq2KFn63RuzA2B9RU1QjKxexB5B6WCiDJGzTlq6jlSqIf/P0NV0JU4FOmnh/7I\nODgFxJSiGX+dX/9JGWzysOK3YwKBgQC269oMinj/lRo/TH0p3SEDGCYwpRrpFr1F\nsRnV3brwI41Ju1yoLaz57NfRp8gvvhC66NSuufnbNZNun1KDTMHhBGoLkMW5WilX\nfJWSQF+J3vq3iRSX/Knwevtx5B52V//yKYBgWOGtCgyDAr3+8PJM39FAOHENqrIS\ngRTWFU0BNQKBgEJHumg75hgwH0MmGvYWD3ii03YcIoIKUlU0KphrwXM1LBACJdP1\nqii05bA0EUeaJsTpnrin+nvsUs+MWCIFM+ZM7T10971Bp/pVW4JqPaJZBcKmZY81\n5PkNceQu/l1Zh6tuY+8XVaKrYINlLHIKhxGPhwedXcCUQBxbtywHAyeLAoGAUR73\nbGhckLwHD9tUBqTSZxTmmtwduxEijy2jT30t0iFyHyjARrU66PtoGspVtRaNRNbM\nu1AuxlBUOdLePOxlbu0OOmLRzQl3HB1cF6gEtpf0iEB6qYybsNJZgICyIbmVAEf3\nbsL8EklKky88IzunuP/pRJnDSVRR9HLaUrbPl6ECgYAJ5ePZanvVN0VaJVHD29wV\n7T4T+7OCBUtcuQSCICxVO1gnGgHSA7Vv7hP9FAEhBPhD/Pp+XGzMgpQmQqOpPw4W\nSdyrVh+MmYnCPJ+lbaJiWQu2ujfLgo2wNanJijy2strbDG1IE1jyAJy0D/YMUfPJ\nLuid5Wp1AdgKAiAo7mun7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-angelamaria-servicio@chatbot-angelamaria-q9us.iam.gserviceaccount.com",
+  "client_id": "115245192727217874900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-angelamaria-servicio%40chatbot-angelamaria-q9us.iam.gserviceaccount.com"
+}
